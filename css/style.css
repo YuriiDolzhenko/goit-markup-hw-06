@@ -32,7 +32,7 @@
 * {
   padding: 0;
   margin: 0;
-  outline: 2px solid tomato;
+  /* outline: 2px solid tomato; */
 }
 ul,
 .link,
