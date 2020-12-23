@@ -639,9 +639,9 @@ https://mariia-kovalchuk.github.io/goit-markup-hw-05/index.html */
 .foto-img:not(:last-child) {
   margin-right: 30px;
 }
-.foto-img img {
+/* .foto-img img {
   margin-bottom: 30px;
-}
+} */
 .foto-img h3 {
   margin-bottom: 10px;
 }
